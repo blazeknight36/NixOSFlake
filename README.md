@@ -19,3 +19,5 @@ If you wish to mark for deletion previous builds of your NixOS that have been ac
 To delete the previous builds you may have marked, run the following command.
 
 ``nix-collect-garbage -d``
+
+testing
